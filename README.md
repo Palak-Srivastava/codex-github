@@ -46,6 +46,7 @@ Contributions of Codex members on Github
 
 | Name | Github Username |
 |:------|:----------------:|
+|Palak Srivastava| [Palak-Srivastava](https://github.com/Palak-Srivastava)
 |Shivangi Bose | [Shivangibose](https://github.com/Shivangibose)
 |Tarique Nasar| [NasarTarique](https://github.com/NasarTarique)
 | Jyotiraditya Prasad Dash | [JyotiradityaPrDash](https://github.com/JyotiradityaPrDash)
